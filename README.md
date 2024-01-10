@@ -7,7 +7,7 @@
 * [1. INTRODUCCIÓN](#1-introducción)
 * [2. RESUMEN DEL PROYECTO](#2-resumen-del-proyecto)
 * [3. PROTOTIPADO](#3-PROTOTIPADO)
-* [4. FUNCIONALIDADES](#4-funcionalidades)
+* [4. FUNCIONALIDADES](#4-FUNCIONALIDADES)
 * [5. HISTORIAS DE USUARIO](#5-consideraciones-técnicas)
 * [6. PRUEBAS UNITARIAS Y ASÍNCORONAS](#6-criterios-de-aceptación-mínimos-del-proyecto)
 * [7. DEPLOY](#6-deploy)
@@ -62,7 +62,7 @@ El prototipo de alta fidelidad fue diseñado utilizando la aplicación Figma. En
 
 
 
-## 4.FUNCIONALIDADES
+## 4. FUNCIONALIDADES
 
 ### `Home`
 
