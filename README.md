@@ -103,6 +103,9 @@ A lo largo del proyecto, hemos implementado un total de 10 pruebas unitarias que
 de estas pruebas unitarias hicimos uso de diversos jest test typecSript. Estas pruebas unitarias han sido diseñadas para garantizar la integridad y precisión de estas funcionalidades dentro de la aplicación. Estas pruebas se ejecutan utilizando el comando npm run
 test.
 
+![image](https://github.com/Benb0x/DEV012-dataverse-chat/assets/144946997/a9564f9d-6b9b-4e8d-92a7-7b7f08dbafeb)
+
+
 ## 7. DESARROLLADORAS DEL PROYECTO
 
 | [<img src="https://avatars.githubusercontent.com/u/144946997?v=4" width=115px><br><sub>Barbara Trejo<sub>](https://github.com/Benb0x)
