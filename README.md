@@ -8,7 +8,7 @@
 * [2. RESUMEN DEL PROYECTO](#2-resumen-del-proyecto)
 * [3. PROTOTIPADO](#3-PROTOTIPADO)
 * [4. FUNCIONALIDADES](#4-FUNCIONALIDADES)
-* [5. HISTORIAS DE USUARIO](#5-consideraciones-técnicas)
+* [5. HISTORIAS DE USUARIO](#5-HISTORIAS-DE-USUARIO)
 * [6. PRUEBAS UNITARIAS Y ASÍNCORONAS](#6-criterios-de-aceptación-mínimos-del-proyecto)
 * [7. DEPLOY](#6-deploy)
 * [8. DESARROLLADORAS DEL PROYECTO](#6-desarrolladoras-del-proyecto)
