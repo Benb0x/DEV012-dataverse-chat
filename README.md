@@ -10,7 +10,8 @@
 * [4. FUNCIONALIDADES](#4-funcionalidades)
 * [5. HISTORIAS DE USUARIO](#5-consideraciones-técnicas)
 * [6. PRUEBAS UNITARIAS Y ASÍNCORONAS](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [7. DESARROLLADORAS DEL PROYECTO](#6-desarrolladoras-del-proyecto)
+* [7. DEPLOY](#6-deploy)
+* [8. DESARROLLADORAS DEL PROYECTO](#6-desarrolladoras-del-proyecto)
 
 ***
 
@@ -106,7 +107,11 @@ test.
 ![image](https://github.com/Benb0x/DEV012-dataverse-chat/assets/144946997/a9564f9d-6b9b-4e8d-92a7-7b7f08dbafeb)
 
 
-## 7. DESARROLLADORAS DEL PROYECTO
+## 7. DEPLOY
+
+La aplicación se encuentra publicado a través de verce, accesible a todo usuario con este link: https://dev-012-dataverse-chat-liart.vercel.app
+
+## 8. DESARROLLADORAS DEL PROYECTO
 
 | [<img src="https://avatars.githubusercontent.com/u/144946997?v=4" width=115px><br><sub>Barbara Trejo<sub>](https://github.com/Benb0x)
 | :---: |
