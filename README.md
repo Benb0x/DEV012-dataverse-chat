@@ -7,10 +7,11 @@
 * [1. INTRODUCCIÓN](#1-introducción)
 * [2. RESUMEN DEL PROYECTO](#2-resumen-del-proyecto)
 * [3. PROTOTIPADO](#3-PROTOTIPADO)
-* [4. FUNCIONALIDADES](#4-funcionalidades)
-* [5. HISTORIAS DE USUARIO](#5-consideraciones-técnicas)
-* [6. PRUEBAS UNITARIAS Y ASÍNCORONAS](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [7. DESARROLLADORAS DEL PROYECTO](#6-desarrolladoras-del-proyecto)
+* [4. FUNCIONALIDADES](#4-FUNCIONALIDADES)
+* [5. HISTORIAS DE USUARIO](#5-HISTORIAS-DE-USUARIO)
+* [6. PRUEBAS UNITARIAS Y ASÍNCORONAS](#6-PRUEBAS-UNITARIAS-Y-ASÍNCORONAS)
+* [7. DEPLOY](#7-DEPLOY)
+* [8. DESARROLLADORAS DEL PROYECTO](#8-desarrolladoras-del-proyecto)
 
 ***
 
@@ -61,7 +62,7 @@ El prototipo de alta fidelidad fue diseñado utilizando la aplicación Figma. En
 
 
 
-## 4.FUNCIONALIDADES
+## 4. FUNCIONALIDADES
 
 ### `Home`
 
@@ -103,7 +104,14 @@ A lo largo del proyecto, hemos implementado un total de 10 pruebas unitarias que
 de estas pruebas unitarias hicimos uso de diversos jest test typecSript. Estas pruebas unitarias han sido diseñadas para garantizar la integridad y precisión de estas funcionalidades dentro de la aplicación. Estas pruebas se ejecutan utilizando el comando npm run
 test.
 
-## 7. DESARROLLADORAS DEL PROYECTO
+![image](https://github.com/Benb0x/DEV012-dataverse-chat/assets/144946997/a9564f9d-6b9b-4e8d-92a7-7b7f08dbafeb)
+
+
+## 7. DEPLOY
+
+La aplicación se encuentra publicado a través de verce, accesible a todo usuario con este link: https://dev-012-dataverse-chat-liart.vercel.app
+
+## 8. DESARROLLADORAS DEL PROYECTO
 
 | [<img src="https://avatars.githubusercontent.com/u/144946997?v=4" width=115px><br><sub>Barbara Trejo<sub>](https://github.com/Benb0x)
 | :---: |
